@@ -12,7 +12,7 @@ Check [live demo](http://plnkr.co/edit/PxBaZs?p=preview) in plunker
 ## Installation
 
 ```
-npm i -S angular2-datatable
+npm i -S angular2-datatable-custom
 ```
 
 ## Usage example
