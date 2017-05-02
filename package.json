@@ -1,6 +1,6 @@
 {
   "name": "angular2-datatable-custom",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "description": "DataTable component for Angular2 framework",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   ],
   "author": "mariuszfoltak@gmail.com",
   "license": "MIT",
-  "angular2-datatable": "https://github.com/pwalczak83/angular2-datatable/tarball/master",
+  "angular2-datatable-custom": "https://github.com/pwalczak83/angular2-datatable/tarball/master",
   "bugs": {
     "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
   },
