@@ -8,7 +8,7 @@ import {DataTable, SortEvent} from "./DataTable";
             <ng-content></ng-content>
             <span *ngIf="isSortedByMeAsc" class="glyphicon glyphicon-triangle-top" aria-hidden="true"></span>
             <span *ngIf="isSortedByMeDesc" class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span>
-            <span *ngIf="!isSortedByMeDesc && !isSortedByMeDesc" class="glyphicon glyphicon-triangle-custom" aria-hidden="true"></span>
+            <span *ngIf="!isSortedByMeDesc && !isSortedByMeAsc" class="glyphicon glyphicon-triangle-custom" aria-hidden="true"></span>
         </a>`
 })
 export class DefaultSorter implements OnInit {
